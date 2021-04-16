@@ -17,7 +17,7 @@ public class Principal extends JFrame implements ActionListener{
 	private static final long serialVersionUID = 1L;
     private JButton b1,b2,b3,b4; 
       
-	public Principal() {
+	public Principal() { 
 	 
 	 setTitle("Ventana INICIAL.");
      setLayout(null);
